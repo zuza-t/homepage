@@ -1,3 +1,6 @@
+body {
+    background: #fefefe;
+}
 h1 {
     color: rgb(126, 10, 45);
 }
@@ -7,4 +10,26 @@ h2 {
 }
 section {
     background: #fefefe;
+}
+.fioletowy {
+    color: purple;
+}
+#Joga {
+    background: rgb(163, 163, 228);
+}
+
+a {
+    color: green;
+}
+
+section a {
+    color: orange;
+}
+
+.my-article p {
+    background: #1460AA;
+    color: #fff;
+}
+#name {
+    color: red;
 }
