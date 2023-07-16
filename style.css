@@ -6,7 +6,7 @@ h1 {
 }
 h2 {
     color: #1460AA;
-    background: rgb(166, 231, 81)
+    background: rgb(192, 253, 157)
 }
 section {
     background: #fefefe;
@@ -23,13 +23,20 @@ a {
 }
 
 section a {
-    color: orange;
+    color: inherit;
 }
 
+.my-article {
+    color: hotpink;
+}
 .my-article p {
     background: #1460AA;
     color: #fff;
 }
 #name {
     color: red;
+}
+
+.about {
+    color: #720432
 }
